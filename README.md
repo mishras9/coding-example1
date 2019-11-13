@@ -28,3 +28,7 @@ Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+#New additions
+##https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
