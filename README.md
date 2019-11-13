@@ -32,3 +32,6 @@ Please make sure to update tests as appropriate.
 
 # New additions
 [Reference] https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+
+## New addition 2
+[ok](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/best-practices-for-leaving-your-company)
